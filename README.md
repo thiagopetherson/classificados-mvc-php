@@ -1,5 +1,5 @@
 # classificados-mvc-php
-Sistema simples de classificados utilizando o padrão mvc com PHP
+Sistema simples de anuncios utilizando o padrão mvc com PHP
 
 Criação de um sistema de classificados, com usuário e senha, utilizando o padrão MVC com Orientação a Objetos e linguagem PHP. Esse sistema foi feito com base no curso da B7Web, do professor Bonieky Lacerda, e tendo como base as aulas de MVC.
 
