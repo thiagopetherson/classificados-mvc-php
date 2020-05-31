@@ -9,7 +9,7 @@ OBS: Se mudar o nome do diretório do projeto, mudar também sua referência no 
 
 OBS 2: Conferir se suas credenciais são as mesmas no arquivo config.php. Estou usando usuário "root" e sem senha.
 
-OBS 3: Nos arquivos está sendo utilizado Bootstrap na versão 3. Porém creio que o importante seja a parte do MVC, Rs. O Bootstrap pode ser facilmente alterado para a versão 4, mudando apenas algumas linhas de código nas views e no template. 
+OBS 3: Nos arquivos está sendo utilizado Bootstrap.  
 
 BOM USO !
 
